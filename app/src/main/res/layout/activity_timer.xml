@@ -27,9 +27,9 @@
         android:id="@+id/btn_changeText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:backgroundTint="#FF8800"
         android:onClick="buttonClicked"
-        android:text="Button"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"/>
+        android:text="Button" />
 
 </RelativeLayout>
